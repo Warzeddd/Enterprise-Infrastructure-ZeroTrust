@@ -1,0 +1,4 @@
+*.qcow2
+*.vmdk
+*.iso
+*.gns3project
